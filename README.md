@@ -1,5 +1,3 @@
-# Fake_News_Detector
-
 # 📰 Fake News Detector
 
 A project that uses NLP, Machine Learning, Deep Learning, and Transformers to figure out if a news article is fake or real.
