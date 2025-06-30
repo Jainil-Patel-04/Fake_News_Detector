@@ -56,15 +56,14 @@ This project is live on Hugging Face Spaces using Gradio.
 - 🌐 [Gradio Interface Library](https://www.gradio.app/)
 - 📚 [scikit-learn](https://scikit-learn.org/) for model implementation
 - 🛠 [NLTK](https://www.nltk.org/) for basic NLP preprocessing
--    [Dataset](https://www.kaggle.com/datasets/stevenpeutz/misinformation-fake-news-text-dataset-79k)
 
 
 ## 📜 License
 MIT License
 
 ## Disclaimer
-⚠️ This project is built purely for educational and experimental purposes to explore basic Natural Language Processing (NLP) and ML/DL techniques.
-❗ It is not suitable for real-world fact-checking or decision-making.
+-⚠️ This project is built purely for educational and experimental purposes to explore basic Natural Language Processing (NLP) and ML/DL techniques.
+-❗ It is not suitable for real-world fact-checking or decision-making.
     The models used are simple, non-contextual, and cannot understand language nuances or factual correctness. Misusing this tool for serious analysis may lead to incorrect      or harmful conclusions. Please do not trust or rely on the outputs of this demo. It is meant for learning only.
 
 
