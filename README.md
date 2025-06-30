@@ -48,8 +48,8 @@ Then, we combined the best of them into an ensemble model to get more reliable p
 
 ## 🚀 Deployment
 This project is live on Hugging Face Spaces using Gradio.  
-Try it here 👉 https://jainilp30-fake-news-detector.hf.space
-Dataset Link 👉 https://www.kaggle.com/datasets/stevenpeutz/misinformation-fake-news-text-dataset-79k
+- Try it here 👉 https://jainilp30-fake-news-detector.hf.space
+- Dataset Link 👉 [Dataset](https://www.kaggle.com/datasets/stevenpeutz/misinformation-fake-news-text-dataset-79k)
 
 ### Libraries and Tools Used:
 - 🧠 [GloVe Embeddings by Stanford NLP](https://nlp.stanford.edu/projects/glove/)
