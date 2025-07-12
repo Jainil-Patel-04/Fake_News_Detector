@@ -87,7 +87,7 @@ def predict_ensemble(text):
     cleaned = clean_text(text)
 
     # Return early if input is too short to be meaningful
-    if len(cleaned.strip()) == 10:
+    if len(cleaned.strip()) <= 10:
         return "Input too short to analyze."
 
     # TF-IDF vectorization for classical ML models
